@@ -1,4 +1,10 @@
 # HeartBeat-Detector
+
+# Web Application with Flask
+I have created a web application using Flask to detect the heart beat of a person in real time.
+To install flask run the following command in command prompt
+pip install flask
+
 # Identifying the face tone
 The idea of determining the heart rate is that the skin tone changes slightly due to the blood flow in the vessels. So we need a picture crop, which contains only a fragment of the skin
 # Image Processing
